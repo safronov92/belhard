@@ -1,7 +1,1 @@
 INDEX VERSION 1.4+C:\JAVA_kurs\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3897477548.index
-1820360962.index
-4155462802.index
-2984141164.index
-3367422576.index
-2805835880.index
